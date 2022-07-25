@@ -1,0 +1,19 @@
+#btn{
+    text-align: center;
+    margin:0; 
+    box-sizing: 20px;
+    border-radius: 5px;
+    background-color:rgb(219, 181, 255);
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px 0 0 10px;
+}
+
+#myDiv{
+    /*border: 1px solid black;	/* thickness and color of border */
+    text-align: center;
+    background-color:cadetblue;
+    border-radius: 4px;		/* edge rounding of border */
+    width: 150px;				/* width of image (px or % or auto) */
+    font-size: 20px;
+}
